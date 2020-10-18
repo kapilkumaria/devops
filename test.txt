@@ -5,3 +5,4 @@ detached HEAD issues
 looks all good now....
 and fine
 can you switch?
+yes i can do that
